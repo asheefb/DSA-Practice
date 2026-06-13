@@ -1,6 +1,5 @@
 package String;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class WeightedWordMapping {
