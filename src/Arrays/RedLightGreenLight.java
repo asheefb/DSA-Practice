@@ -30,6 +30,8 @@ class RedLightGreenLight {
                     count++;
             }
 
+            Set<Integer> set = new TreeSet<>();
+
             System.out.println(count);
         }
 
