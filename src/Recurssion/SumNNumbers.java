@@ -1,0 +1,9 @@
+package Recurssion;
+
+public class SumNNumbers {
+    public static int sum(int n) {
+        if (n == 1)
+            return 1;
+        return n + sum(n - 1);
+    }
+}
