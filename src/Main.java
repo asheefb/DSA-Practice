@@ -1,3 +1,7 @@
+import Arrays.DeleteNumberInArray;
+
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -7,6 +11,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
+        int num = scanner.nextInt();
+
         int size = scanner.nextInt();
         int[] array = new int[size];
 
@@ -14,8 +20,20 @@ public class Main {
             array[i] = scanner.nextInt();
         }
 
-        findLargestNumber(array);
+        List<Object> delete = DeleteNumberInArray.delete(array, num);
+
+        delete.forEach(element -> {
+            if (element instanceof int[] arr) {
+                Arrays.stream(arr).forEach(System.out::print);
+            } else {
+                System.out.print(element);
+            }
+        });
+
+//        findLargestNumber(array);
     }
+
+
     // Time Complexity: O(n)
     // Space Complexity: O(1)
     public static void findLargestNumber(int[] array) {
