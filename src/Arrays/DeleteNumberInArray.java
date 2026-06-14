@@ -2,7 +2,6 @@ package Arrays;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class DeleteNumberInArray {
     public static List<Object> delete(int[] arr, int num) {
