@@ -1,4 +1,4 @@
-package Arrays;
+package CodeChef.Arrays;
 
 import java.util.Scanner;
 /*
