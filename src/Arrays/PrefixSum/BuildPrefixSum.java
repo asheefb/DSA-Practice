@@ -1,5 +1,8 @@
 package Arrays.PrefixSum;
 
+/*
+https://leetcode.com/problems/range-sum-query-immutable/?envType=problem-list-v2&envId=prefix-sum
+ */
 public class BuildPrefixSum {
 
     private int[] prefixSum;
