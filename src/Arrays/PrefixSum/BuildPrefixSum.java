@@ -27,5 +27,22 @@ public class BuildPrefixSum {
         BuildPrefixSum sum = new BuildPrefixSum(new int[]{1, 2, 3, 4, 5, 6});
         System.out.println(sum.sumRange(1, 4));
 
+
+        int[][] accounts = {
+                {1, 2, 3},
+                {3, 2, 1}
+        };
+
+        for (int[] account : accounts) {
+            BuildPrefixSum wealth = new BuildPrefixSum(account);
+            System.out.println(wealth.wealthOfCustomer(0, account.length) - 1);
+        }
+
+    }
+
+    public int wealthOfCustomer(int left, int right) {
+        if (left == 0)
+            return prefixSum[right];
+        return prefixSum[right] - prefixSum[left - 1];
     }
 }
