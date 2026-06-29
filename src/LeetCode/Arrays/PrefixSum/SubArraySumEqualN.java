@@ -74,12 +74,14 @@ public class SubArraySumEqualN {
         for (int i = 1; i < n; i++)
             prefix[i] = prefix[i - 1] + nums[i];
 
+        //prefix, frequency
         Map<Integer, Integer> map = new HashMap<>();
         int count = 0;
 
         for (int i = 0; i < n; i++) {
             if (prefix[i] == k)
                 count++;
+
 
             count += map.getOrDefault(prefix[i] - k, 0);
 
