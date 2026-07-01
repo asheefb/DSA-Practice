@@ -42,9 +42,8 @@ public class MoveZeros {
             if (nums[fast] == 0)
                 fast++;
             else {
-                int temp = nums[slow];
                 nums[slow] = nums[fast];
-                nums[fast] = temp;
+                nums[fast] = 0;
                 slow++;
                 fast++;
             }
