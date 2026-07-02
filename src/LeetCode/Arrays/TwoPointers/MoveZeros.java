@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MoveZeros {
     public static void main(String[] args) {
-        moveZeroes2(new int[]{1, 0, 1});
+        moveZeroes3(new int[]{1, 0, 1});
     }
 
     //    6%
@@ -47,6 +47,21 @@ public class MoveZeros {
                 slow++;
                 fast++;
             }
+        }
+        System.out.println(Arrays.toString(nums));
+    }
+
+    public static void moveZeroes3(int[] nums) {
+        int fast = 0, slow = 0;
+
+        while (fast < nums.length) {
+            if (nums[fast] != 0) {
+                int temp = nums[fast];
+                nums[fast] = nums[slow];
+                nums[slow] = temp;
+                slow++;
+            }
+            fast++;
         }
         System.out.println(Arrays.toString(nums));
     }
