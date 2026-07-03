@@ -1,4 +1,4 @@
-package String.TwoPointers;
+package LeetCode.String.TwoPointers;
 
 public class IsValidPalindrome {
 

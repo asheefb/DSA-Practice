@@ -1,8 +1,7 @@
-package String;
+package LeetCode.String;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 public class ReverseString {
     public static void main(String[] args) {

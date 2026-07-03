@@ -4,7 +4,7 @@ Two Pointers
     Read Problem
     │
     ▼
-    Is it a String or Array?
+    Is it a LeetCode.String or Array?
     │
     ▼
     Compare both ends?

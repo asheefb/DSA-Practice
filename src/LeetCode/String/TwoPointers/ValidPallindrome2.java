@@ -1,4 +1,4 @@
-package String.TwoPointers;
+package LeetCode.String.TwoPointers;
 
 import java.util.HashMap;
 import java.util.Map;
