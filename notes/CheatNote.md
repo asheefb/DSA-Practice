@@ -50,8 +50,8 @@ Sliding Window
     2. Variable Window
 
 Difference
----------
-###
+-
+####
     Two Pointers
     ↓
     
