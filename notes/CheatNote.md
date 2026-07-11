@@ -49,6 +49,21 @@ Sliding Window
     1. Fixed Window
     2. Variable Window
 
+    Array / String
+            │
+            ▼
+    Continuous?
+            │
+          YES
+            │
+            ▼
+    Subarray?
+    Substring?
+    Consecutive?
+            │
+            ▼
+    Sliding Window
+
 Difference
 -
 ####
