@@ -48,3 +48,17 @@ Sliding Window
     Types
     1. Fixed Window
     2. Variable Window
+
+Difference
+---------
+###
+    Two Pointers
+    ↓
+    
+    Two indices solving a problem.
+    
+    Sliding Window
+    
+    ↓
+    
+    A continuous range whose size is fixed or changes.
