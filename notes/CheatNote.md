@@ -25,3 +25,26 @@ Two Pointers
     Need in-place modification?
     │
     ├── Yes → Think Two Pointers
+
+Sliding Window
+-------------
+###
+    WHAT?
+    Process a continuous window.
+    
+    WHY?
+    Avoid recalculating repeated work.
+    
+    WHEN?
+    ✔ Subarray
+    ✔ Substring
+    ✔ Consecutive
+    ✔ Continuous
+    ✔ Window
+    
+    WHEN NOT?
+    ✘ Random elements
+    
+    Types
+    1. Fixed Window
+    2. Variable Window
