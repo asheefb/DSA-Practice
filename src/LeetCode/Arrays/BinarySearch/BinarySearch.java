@@ -11,6 +11,8 @@ public class BinarySearch {
 
         while (start <= end) {
             int mid = (start + end) / 2;
+//            int mid = start + (end - start) / 2;
+
 
             if (nums[mid] == target)
                 return mid;
