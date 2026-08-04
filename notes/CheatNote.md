@@ -77,3 +77,22 @@ Difference
     ↓
     
     A continuous range whose size is fixed or changes.
+
+Binary Search
+-
+    Array
+    │
+    ▼
+    Sorted?
+    │
+    YES
+    │
+    ▼
+    Searching?
+    
+    Finding Position?
+    
+    Finding Target?
+    │
+    ▼
+    Binary Search
