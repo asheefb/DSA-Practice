@@ -2,4 +2,4 @@
 
 ## 1. Arrays
 ## 🔎 Binary Search
-- [ ] [LeetCode 162 - Find the Peak Element](./LeetCode/Arrays/BinarySearch/FindThePeakElement.java)
+- [ ] [LeetCode 162 - Find the Peak Element](./src/LeetCode/Arrays/BinarySearch/FindThePeakElement.java)
