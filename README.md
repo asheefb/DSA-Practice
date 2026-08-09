@@ -11,3 +11,4 @@
 - [ ] [LeetCode 153 Find Minimum in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/FindMinInRotatedArray.java) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [ ] [LeetCode 162 - Find the Peak Element](./src/LeetCode/Arrays/BinarySearch/FindThePeakElement.java) | [LeetCode](https://leetcode.com/problems/find-peak-element/description/)
 - [ ] [LeetCode 875 — Koko Eating Bananas](./src/LeetCode/Arrays/BinarySearch/KokoEatingBanana.java) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
+- [ ] [LeetCode 1011. Capacity To Ship Packages Within D Days](./src/LeetCode/Arrays/BinarySearch/Capacity.java) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
