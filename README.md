@@ -2,12 +2,12 @@
 
 ## 1. Arrays
 ## 🔎 Binary Search
-- [ ] [LeetCode 704 - Binary Search](./src/LeetCode/Arrays/BinarySearch/BinarySearch.java)
-- [ ] [LeetCode 35 Search Insert Position](./src/LeetCode/Arrays/BinarySearch/SearchInsertPosition.java)
-- [ ] [LeetCode 34 First/Last Occurrence](./src/LeetCode/Arrays/BinarySearch/SearchRange.java)
-- [ ] [LeetCode 278 First Bad Version](./src/LeetCode/Arrays/BinarySearch/FirstBadVersion.java)
+- [ ] [LeetCode 704 - Binary Search](./src/LeetCode/Arrays/BinarySearch/BinarySearch.java) | [LeetCode](https://leetcode.com/problems/binary-search/description/)
+- [ ] [LeetCode 35 Search Insert Position](./src/LeetCode/Arrays/BinarySearch/SearchInsertPosition.java) | [LeetCode](https://leetcode.com/problems/search-insert-position/description/)
+- [ ] [LeetCode 34 First/Last Occurrence](./src/LeetCode/Arrays/BinarySearch/SearchRange.java) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- [ ] [LeetCode 278 First Bad Version](./src/LeetCode/Arrays/BinarySearch/FirstBadVersion.java) | [LeetCode](https://leetcode.com/problems/first-bad-version/description/)
 - [ ] [LeetCode Lower/Upper Bound concepts](./src/LeetCode/Arrays/BinarySearch/SearchRange.java)
-- [ ] [LeetCode 33 Search in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/SearchInSortedArray.java)
-- [ ] [LeetCode 153 Find Minimum in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/FindMinInRotatedArray.java)
-- [ ] [LeetCode 162 - Find the Peak Element](./src/LeetCode/Arrays/BinarySearch/FindThePeakElement.java)
+- [ ] [LeetCode 33 Search in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/SearchInSortedArray.java) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [ ] [LeetCode 153 Find Minimum in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/FindMinInRotatedArray.java) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [ ] [LeetCode 162 - Find the Peak Element](./src/LeetCode/Arrays/BinarySearch/FindThePeakElement.java) | [LeetCode](https://leetcode.com/problems/find-peak-element/description/)
 - [ ] [LeetCode 875 — Koko Eating Bananas](./src/LeetCode/Arrays/BinarySearch/KokoEatingBanana.java) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
