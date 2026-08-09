@@ -10,3 +10,4 @@
 - [ ] [LeetCode 33 Search in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/SearchInSortedArray.java)
 - [ ] [LeetCode 153 Find Minimum in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/FindMinInRotatedArray.java)
 - [ ] [LeetCode 162 - Find the Peak Element](./src/LeetCode/Arrays/BinarySearch/FindThePeakElement.java)
+- [ ] [LeetCode 875 — Koko Eating Bananas](./src/LeetCode/Arrays/BinarySearch/KokoEatingBanana.java) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
