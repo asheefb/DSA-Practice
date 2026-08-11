@@ -13,3 +13,4 @@
 - [ ] [LeetCode 875 — Koko Eating Bananas](./src/LeetCode/Arrays/BinarySearch/KokoEatingBanana.java) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [ ] [LeetCode 1011. Capacity To Ship Packages Within D Days](./src/LeetCode/Arrays/BinarySearch/Capacity.java) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [ ] [LeetCode 1482. Minimum Number of Days to Make m Bouquets](./src/LeetCode/Arrays/BinarySearch/MinNbOfDaysToMakeMBouquets.java) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
+- [ ] [LeetCode 410 — Split Array Largest Sum](./src/LeetCode/Arrays/BinarySearch/SplitArrayLargestSum.java) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/description/)
