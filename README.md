@@ -14,3 +14,4 @@
 - [ ] [LeetCode 1011. Capacity To Ship Packages Within D Days](./src/LeetCode/Arrays/BinarySearch/Capacity.java) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [ ] [LeetCode 1482. Minimum Number of Days to Make m Bouquets](./src/LeetCode/Arrays/BinarySearch/MinNbOfDaysToMakeMBouquets.java) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
 - [ ] [LeetCode 410 — Split Array Largest Sum](./src/LeetCode/Arrays/BinarySearch/SplitArrayLargestSum.java) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/description/)
+- [ ] [LeetCode 74 - Search a 2D Matrix](./src/LeetCode/Arrays/BinarySearch/SearchA2DMatrix.java) [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/)
