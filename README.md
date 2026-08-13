@@ -8,6 +8,7 @@
 - [ ] [LeetCode 278 First Bad Version](./src/LeetCode/Arrays/BinarySearch/FirstBadVersion.java) | [LeetCode](https://leetcode.com/problems/first-bad-version/description/)
 - [ ] [LeetCode Lower/Upper Bound concepts](./src/LeetCode/Arrays/BinarySearch/SearchRange.java)
 - [ ] [LeetCode 33 Search in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/SearchInSortedArray.java) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [ ] [LeetCode 81. Search in Rotated Sorted Array II]() | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 - [ ] [LeetCode 153 Find Minimum in Rotated Sorted Array](./src/LeetCode/Arrays/BinarySearch/FindMinInRotatedArray.java) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [ ] [LeetCode 162 - Find the Peak Element](./src/LeetCode/Arrays/BinarySearch/FindThePeakElement.java) | [LeetCode](https://leetcode.com/problems/find-peak-element/description/)
 - [ ] [LeetCode 875 — Koko Eating Bananas](./src/LeetCode/Arrays/BinarySearch/KokoEatingBanana.java) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
