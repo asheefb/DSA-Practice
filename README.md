@@ -17,3 +17,4 @@
 - [ ] [LeetCode 410 — Split Array Largest Sum](./src/LeetCode/Arrays/BinarySearch/SplitArrayLargestSum.java) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [ ] [LeetCode 74 - Search a 2D Matrix](./src/LeetCode/Arrays/BinarySearch/SearchA2DMatrix.java) [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [ ] [540. Single Element in a Sorted Array](./src/LeetCode/Arrays/BinarySearch/SingleElementInSortedArray.java) [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+- [ ] [LeetCode 4 - Median of Two Sorted Arrays](./src/LeetCode/Arrays/BinarySearch/MedianOfA2SortedArray.java) [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
