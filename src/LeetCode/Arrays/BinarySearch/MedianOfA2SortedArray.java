@@ -7,7 +7,7 @@ https://leetcode.com/problems/median-of-two-sorted-arrays/
 public class MedianOfA2SortedArray {
 
     public static void main(String[] args) {
-        System.out.println(findMedianSortedArrays2(new int[]{1, 2}, new int[]{3, 4}));
+        System.out.println(findMedianSortedArrays(new int[]{1, 2}, new int[]{3, 4}));
     }
 
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
@@ -34,7 +34,7 @@ public class MedianOfA2SortedArray {
             return (double) (merge[mid] + merge[mid - 1]) / 2;
     }
 
-    public static double findMedianSortedArrays2(int[] nums1, int[] nums2) {
+    public double findMedianSortedArrays2(int[] nums1, int[] nums2) {
         int n1 = nums1.length, n2 = nums2.length;
 
         if (n1 > n2)
@@ -59,15 +59,15 @@ public class MedianOfA2SortedArray {
             if (mid2 - 1 >= 0)
                 l2 = nums2[mid2 - 1];
 
-            if(l1<=r2 && l2<=r1) {
-                if((n1+n2 )% 2 == 1)
-                    return Math.max(l1,l2);
+            if (l1 <= r2 && l2 <= r1) {
+                if ((n1 + n2) % 2 == 1)
+                    return Math.max(l1, l2);
                 else
-                    return (double) Math.max(l1,l2) + (double) Math.min(r1, r2) /2;
-            } else if (l1>r2)
-                high = mid1-1;
+                    return (double) (Math.max(l1, l2) + Math.min(r1, r2)) / 2;
+            } else if (l1 > r2)
+                high = mid1 - 1;
             else
-                low = mid1+1;
+                low = mid1 + 1;
         }
         return 0;
     }
