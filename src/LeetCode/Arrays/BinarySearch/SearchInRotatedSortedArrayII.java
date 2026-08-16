@@ -4,7 +4,7 @@ package LeetCode.Arrays.BinarySearch;
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
  */
 
-public class SearchinRotatedSortedArrayII {
+public class SearchInRotatedSortedArrayII {
 
     public boolean search(int[] nums, int target) {
         int start = 0, end = nums.length - 1;
