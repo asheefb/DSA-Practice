@@ -15,6 +15,7 @@ public class CompressTheVideo {
                 arr[i] = sc.nextInt();
             }
 
+
             if (n == 0) {
                 System.out.println(0);
                 continue;
