@@ -96,3 +96,58 @@ Binary Search
     │
     ▼
     Binary Search
+
+Stack
+-----
+        Read Problem
+              │
+              ▼
+        Need the MOST RECENT element?
+              │
+              ├── Yes → Think Stack
+              │
+              ▼
+        Need Last In, First Out (LIFO)?
+              │
+              ├── Yes → Think Stack
+              │
+              ▼
+        Need to match pairs?
+              │
+              ├── Yes → Think Stack
+              │
+              ▼
+        Need to undo operations?
+              │
+              ├── Yes → Think Stack
+              │
+              ▼
+        Need to reverse something?
+              │
+              ├── Yes → Think Stack
+              │
+              ▼
+        Need Previous / Next elements?
+              │
+              ├── Yes → Think Monotonic Stack
+
+    Balanced, Nested, Undo, Reverse, History, Previous, Next, Nearest, Matching
+
+Quick Comparison
+-
+####
+    Two Pointers
+    ↓
+    Two indices
+    -------------------------
+    Sliding Window
+    ↓
+    Continuous range
+    -------------------------
+    Binary Search
+    ↓
+    Discard half the search space
+    -------------------------
+    Stack
+    ↓
+    Always care about the MOST RECENT element
