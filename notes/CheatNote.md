@@ -133,6 +133,39 @@ Stack
 
     Balanced, Nested, Undo, Reverse, History, Previous, Next, Nearest, Matching
 
+OR
+
+STACK
+-----
+
+    WHAT?
+    LIFO
+    Last In, First Out
+    
+    WHY?
+    Process the most recent element first.
+    
+    WHEN?
+    ✔ Balanced parentheses
+    ✔ Matching / nested structures
+    ✔ Undo / history
+    ✔ Reverse order
+    ✔ Previous state
+    ✔ Expression evaluation
+    
+    KEY QUESTION
+    "Do I need the MOST RECENT element?"
+    
+    If YES → Think Stack.
+    
+    MONOTONIC STACK
+    ---------------
+    
+    KEY QUESTION
+    "Do I need the nearest greater/smaller element?"
+    
+    If YES → Think Monotonic Stack.
+
 Quick Comparison
 -
 ####
