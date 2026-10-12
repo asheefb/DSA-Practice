@@ -22,3 +22,4 @@
 ## 🔎 Stack
 - [ ] [LeetCode 20 Valid Parentheses](src/LeetCode/Stack/ValidParentheses.java) [LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
 - [ ] [LeetCode 155. Min Stack](src/LeetCode/Stack/MinStack.java) [LeetCode](https://leetcode.com/problems/min-stack/)
+- [ ] [LeetCode 739. Daily Temperatures](src/LeetCode/Stack/DailyTemperature.java) [LeetCode](https://leetcode.com/problems/daily-temperatures/)
