@@ -1,6 +1,6 @@
 package LeetCode.Stack;
 
-import java.util.Arrays;
+import java.util.*;
 
 /*
 https://leetcode.com/problems/next-greater-element-i/
@@ -12,6 +12,9 @@ public class NextGreaterElement {
 
         int[] res = new int[nums1.length];
         Arrays.fill(res, -1);
+        Map<Integer,Integer> map = new HashMap<>();
+
+
 
         for (int i = 0; i < nums1.length; i++) {
             int x = nums1[i];
@@ -36,5 +39,30 @@ public class NextGreaterElement {
                 return i;
         }
         return -1;
+    }
+
+    //monotonic stack
+    public int[] nextGreaterElement2(int[] nums1, int[] nums2) {
+        Map<Integer, Integer> map = new HashMap<>();
+        Stack<Integer> stack = new Stack<>();
+//        ArrayDeque<Integer> stack = new ArrayDeque<>();
+
+        for (int num : nums2) {
+
+            while (!stack.isEmpty() && num > stack.peek()) {
+                int top = stack.peek();
+                stack.pop();
+                map.put(top, num);
+            }
+            stack.push(num);
+        }
+
+        int[] res = new int[nums1.length];
+
+        for (int i = 0; i < nums1.length; i++) {
+            res[i] = map.getOrDefault(nums1[i], -1);
+        }
+
+        return res;
     }
 }
