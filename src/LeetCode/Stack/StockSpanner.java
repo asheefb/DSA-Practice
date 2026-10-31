@@ -40,6 +40,16 @@ public class StockSpanner {
         currentIndex++;
 
         return res;
+
+//        int span = 1;
+//
+//        while (!stack.isEmpty() && price >= stack.peek().price) {
+//            span += stack.peek().span;
+//            stack.pop();
+//        }
+//
+//        stack.push(new Pair(price, span));
+//        return span;
     }
 }
 
