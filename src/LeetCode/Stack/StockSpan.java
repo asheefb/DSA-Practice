@@ -1,6 +1,7 @@
 package LeetCode.Stack;
 
 import java.util.Arrays;
+import java.util.Map;
 import java.util.Stack;
 
 public class StockSpan {
@@ -13,6 +14,8 @@ public class StockSpan {
         int n = prices.length;
         int[] res = new int[n];
         Stack<Integer> stack = new Stack<>();
+
+        Stack<Map<Integer, Integer>> integers = new Stack<>();
 
         for (int i = 0; i < n; i++) {
             while (!stack.isEmpty() && prices[i] >= prices[stack.peek()])
