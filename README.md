@@ -29,4 +29,4 @@
 - [ ] [Stock Span](src/LeetCode/Stack/StockSpan.java)
 - [ ] [LeetCode 901. Online Stock Span](src/LeetCode/Stack/StockSpanner.java)[LeetCode](https://leetcode.com/problems/online-stock-span/)
 #### Monotonic Increasing Stack
-- [ ] [LeetCode 84 — Largest Rectangle in Histogram]()
+- [ ] [LeetCode 84 — Largest Rectangle in Histogram](src/LeetCode/Stack/LargestRectangleInHistogram.java)[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
