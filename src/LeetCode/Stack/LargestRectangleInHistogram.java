@@ -8,7 +8,11 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 public class LargestRectangleInHistogram {
 
-    public int largestRectangleArea(int[] heights) {
+    public static void main(String[] args) {
+        System.out.println(largestRectangleArea(new int[]{2, 4, 2, 1}));
+    }
+
+    public static int largestRectangleArea(int[] heights) {
         int n = heights.length, maxArea = 0;
 
         Stack<Integer> stack = new Stack<>();
