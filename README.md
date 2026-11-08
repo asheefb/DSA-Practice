@@ -30,4 +30,24 @@
 - [ ] [LeetCode 901. Online Stock Span](src/LeetCode/Stack/StockSpanner.java)[LeetCode](https://leetcode.com/problems/online-stock-span/)
 #### Monotonic Increasing Stack
 - [ ] [LeetCode 84 — Largest Rectangle in Histogram](src/LeetCode/Stack/LargestRectangleInHistogram.java)[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-- [ ] [LeetCode 907 — Sum of Subarray Minimums]()
+``` What is PSE?
+PSE = Previous Smaller Element
+It means the nearest element on the left side that is smaller than the current element.
+```
+
+```What is NSE
+NSE = Next Smaller Element
+It means the nearest element on the right side that is smaller than the current element.
+```
+
+```What is Contribution
+Contribution simply means:
+
+How much does one element contribute to the final answer?
+
+For example, element 1 is the minimum in 4 subarrays.
+Its contribution is:
+1 × 4 = 4
+```
+
+- [ ] [LeetCode 907 — Sum of Subarray Minimums](src/LeetCode/Stack/SumOfSubarrayMinimums.java) [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/)
