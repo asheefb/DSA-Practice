@@ -51,3 +51,4 @@ Its contribution is:
 ```
 
 - [ ] [LeetCode 907 — Sum of Subarray Minimums](src/LeetCode/Stack/SumOfSubarrayMinimums.java) [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/)
+- [ ] [LeetCode 42 — Trapping Rain Water](src/LeetCode/Stack/TrappingRainWater.java) [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
