@@ -52,4 +52,27 @@ public class TrappingRainWater {
         return totalWater;
 
     }
+
+    //using 2 pointers
+    public int trap3(int[] height) {
+        int totalWater = 0, n = height.length;
+        int left = 0,right = n-1,leftMax = 0,rightMax = 0;
+
+        while(left<right) {
+            if (height[left]<height[right]){
+                leftMax = Math.max(leftMax,height[left]);
+                int water = leftMax - height[left];
+
+                totalWater += water;
+                left++;
+            } else {
+                rightMax = Math.max(rightMax,height[right]);
+                int water = rightMax - height[right];
+                totalWater += water;
+
+                right--;
+            }
+        }
+        return totalWater;
+    }
 }
