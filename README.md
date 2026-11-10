@@ -53,3 +53,11 @@ Its contribution is:
 - [ ] [LeetCode 907 — Sum of Subarray Minimums](src/LeetCode/Stack/SumOfSubarrayMinimums.java) [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [ ] [LeetCode 42 — Trapping Rain Water](src/LeetCode/Stack/TrappingRainWater.java) [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
 - [ ] [LeetCode 85 — Maximal Rectangle](src/LeetCode/Stack/MaximalRectangle.java) [LeetCode](https://leetcode.com/problems/maximal-rectangle/description/)
+
+```
+Greedy Properties:
+- Greedy Choice Property: Can we make the best local choice without losing the global optimum?
+- Optimal Substructure: Can the larger problem be solved using optimal solutions to smaller subproblems?
+```
+
+- [ ] [LeetCode 402. Remove K Digits](src/LeetCode/Stack/RemoveKDigits.java) [LeetCode](https://leetcode.com/problems/remove-k-digits/description/)
