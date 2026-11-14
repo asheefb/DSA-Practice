@@ -62,4 +62,6 @@ Greedy Properties:
 
 - [ ] [LeetCode 402. Remove K Digits](src/LeetCode/Stack/RemoveKDigits.java) [LeetCode](https://leetcode.com/problems/remove-k-digits/description/)
 - [ ] [LeetCode 456. 132 Pattern](src/LeetCode/Stack/One32Pattern.java) [LeetCode](https://leetcode.com/problems/132-pattern/description/)
+
+### Normal Stack
 - [ ] [LeetCode 150. Evaluate Reverse Polish Notation](src/LeetCode/Stack/EvaluateReversePolishNotation.java) [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
