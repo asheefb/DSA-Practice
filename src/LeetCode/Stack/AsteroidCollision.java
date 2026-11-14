@@ -26,7 +26,6 @@ public class AsteroidCollision {
                     stack.pop();
                 else
                     isAlive = false;
-
             }
             if (isAlive)
                 stack.push(current);
