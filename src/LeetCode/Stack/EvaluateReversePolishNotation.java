@@ -12,39 +12,31 @@ public class EvaluateReversePolishNotation {
     }
 
     public static int evalRPN(String[] tokens) {
-        int n = tokens.length;
-
         Stack<Integer> stack = new Stack<>();
 
         for (String token : tokens) {
             if (token.equals("+") || token.equals("-") ||
                     token.equals("/") || token.equals("*")) {
-                int popedLenght = 0, res = 0;
-                Integer sec = null;
-                while (popedLenght != 2) {
-                    int first = stack.pop();
-                    popedLenght++;
+                int res = 0;
+                int sec = stack.pop();
+                int first = stack.pop();
 
-                    if (sec == null)
-                        sec = first;
-                    else {
-                        switch (token) {
-                            case "+":
-                                res = first + sec;
-                                break;
-                            case "-":
-                                res = first - sec;
-                                break;
-                            case "/":
-                                res = first / sec;
-                                break;
-                            case "*":
-                                res = first * sec;
-                                break;
-                            default:
-                                throw new IllegalArgumentException("Invalid operator: " + token);
-                        }
-                    }
+                switch (token) {
+                    case "+":
+                        res = first + sec;
+                        break;
+                    case "-":
+                        res = first - sec;
+                        break;
+                    case "/":
+                        res = first / sec;
+                        break;
+                    case "*":
+                        res = first * sec;
+                        break;
+                    default:
+                        throw new IllegalArgumentException("Invalid operator: " + token);
+
                 }
                 stack.push(res);
             } else
