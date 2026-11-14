@@ -41,6 +41,7 @@ public class EvaluateReversePolishNotation {
                 stack.push(res);
             } else
                 stack.push(Integer.valueOf(token));
+            //stack.push(Integer.parseInt(token));
         }
 
         return stack.pop();
