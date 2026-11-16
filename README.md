@@ -78,7 +78,8 @@ Each node contains two things:
 head holds the reference to the first node.
 ```
 
-[ ] [LeetCode 1290. Convert Binary Number in a Linked List to Integer](src/LeetCode/LinkedList/BinaryToDecimal.java) [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+- [ ] [LeetCode 1290. Convert Binary Number in a Linked List to Integer](src/LeetCode/LinkedList/BinaryToDecimal.java) [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+- [ ] [LeetCode 707. Design Linked List](src/LeetCode/LinkedList/DesignLinkedList.java) [LeetCode](https://leetcode.com/problems/design-linked-list/description/)
 
 
 ## 🔎 Fast & Slow Pointers

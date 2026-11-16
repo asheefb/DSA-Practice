@@ -1,5 +1,8 @@
 package LeetCode.LinkedList;
 
+/*
+https://leetcode.com/problems/design-linked-list/description/
+ */
 public class DesignLinkedList {
     class Node {
         int val;
