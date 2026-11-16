@@ -75,7 +75,10 @@ A Linked List is a linear data structure where elements are stored in separate o
 Each node contains two things:
 1. Data – the actual value
 2. Next – reference to the next node
+head holds the reference to the first node.
 ```
+
+[ ] [LeetCode 1290. Convert Binary Number in a Linked List to Integer](src/LeetCode/LinkedList/BinaryToDecimal.java) [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 
 
 ## 🔎 Fast & Slow Pointers
