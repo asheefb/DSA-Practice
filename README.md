@@ -70,6 +70,12 @@ Greedy Properties:
 
 
 ##  🔎 Linked Lists
+```
+A Linked List is a linear data structure where elements are stored in separate objects called Nodes.
+Each node contains two things:
+1. Data – the actual value
+2. Next – reference to the next node
+```
 
 
 ## 🔎 Fast & Slow Pointers
