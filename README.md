@@ -67,3 +67,14 @@ Greedy Properties:
 - [ ] [LeetCode 150. Evaluate Reverse Polish Notation](src/LeetCode/Stack/EvaluateReversePolishNotation.java) [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [ ] [LeetCode 735. Asteroid Collision](src/LeetCode/Stack/AsteroidCollision.java) [LeetCode](https://leetcode.com/problems/asteroid-collision/description/)
 - [ ] [LeetCode 853. Car Fleet](src/LeetCode/Stack/CarFleet.java) [LeetCode](https://leetcode.com/problems/car-fleet/description/)
+
+
+##  🔎 Linked Lists
+
+
+## 🔎 Fast & Slow Pointers
+```
+We use two pointers that move at different speeds through a data structure, usually a Linked List.
+- slow → Moves one step at a time.
+- fast → Moves two steps at a time.
+```
