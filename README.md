@@ -82,7 +82,9 @@ head holds the reference to the first node.
 - [ ] [LeetCode 707. Design Linked List](src/LeetCode/LinkedList/DesignLinkedList.java) | [LeetCode](https://leetcode.com/problems/design-linked-list/description/)
 - [ ] [LeetCode 206. Reverse Linked List](src/LeetCode/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)
 - [ ] [LeetCode 21. Merge Two Sorted Lists](src/LeetCode/LinkedList/MergeTwoSortedList.java) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/)
-
+- [ ] [LeetCode 2. Add Two Numbers](src/LeetCode/LinkedList/AddTwoNumbers.java) | [LeetCode](https://leetcode.com/problems/add-two-numbers/description/)
+- [ ] [LeetCode 203. Remove Linked List Elements](src/LeetCode/LinkedList/RemoveLinkedListElements.java) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/description/)
+- 
 
 ## 🔎 Fast & Slow Pointers
 ```
