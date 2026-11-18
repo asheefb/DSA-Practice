@@ -80,6 +80,8 @@ head holds the reference to the first node.
 
 - [ ] [LeetCode 1290. Convert Binary Number in a Linked List to Integer](src/LeetCode/LinkedList/BinaryToDecimal.java) [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 - [ ] [LeetCode 707. Design Linked List](src/LeetCode/LinkedList/DesignLinkedList.java) [LeetCode](https://leetcode.com/problems/design-linked-list/description/)
+- [ ] [LeetCode 206. Reverse Linked List](src/LeetCode/LinkedList/ReverseLinkedList.java) [LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)
+- [ ] [LeetCode 21. Merge Two Sorted Lists](src/LeetCode/LinkedList/MergeTwoSortedList.java) [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 
 ## 🔎 Fast & Slow Pointers
