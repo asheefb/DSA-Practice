@@ -15,21 +15,21 @@
 - [ ] [LeetCode 1011. Capacity To Ship Packages Within D Days](./src/LeetCode/Arrays/BinarySearch/Capacity.java) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [ ] [LeetCode 1482. Minimum Number of Days to Make m Bouquets](./src/LeetCode/Arrays/BinarySearch/MinNbOfDaysToMakeMBouquets.java) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
 - [ ] [LeetCode 410 — Split Array Largest Sum](./src/LeetCode/Arrays/BinarySearch/SplitArrayLargestSum.java) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/description/)
-- [ ] [LeetCode 74 - Search a 2D Matrix](./src/LeetCode/Arrays/BinarySearch/SearchA2DMatrix.java) [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/)
-- [ ] [540. Single Element in a Sorted Array](./src/LeetCode/Arrays/BinarySearch/SingleElementInSortedArray.java) [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
-- [ ] [LeetCode 4 - Median of Two Sorted Arrays](./src/LeetCode/Arrays/BinarySearch/MedianOfA2SortedArray.java) [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+- [ ] [LeetCode 74 - Search a 2D Matrix](./src/LeetCode/Arrays/BinarySearch/SearchA2DMatrix.java) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- [ ] [540. Single Element in a Sorted Array](./src/LeetCode/Arrays/BinarySearch/SingleElementInSortedArray.java) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+- [ ] [LeetCode 4 - Median of Two Sorted Arrays](./src/LeetCode/Arrays/BinarySearch/MedianOfA2SortedArray.java) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
 ## 🔎 Stack
-- [ ] [LeetCode 20 Valid Parentheses](src/LeetCode/Stack/ValidParentheses.java) [LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
+- [ ] [LeetCode 20 Valid Parentheses](src/LeetCode/Stack/ValidParentheses.java) | [LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
 - [ ] [LeetCode 155. Min Stack](src/LeetCode/Stack/MinStack.java) [LeetCode](https://leetcode.com/problems/min-stack/)
-- [ ] [LeetCode 739. Daily Temperatures](src/LeetCode/Stack/DailyTemperature.java) [LeetCode](https://leetcode.com/problems/daily-temperatures/)
-- [ ] [LeetCode 496. Next Greater Element I](src/LeetCode/Stack/NextGreaterElement.java)[LeetCode](https://leetcode.com/problems/next-greater-element-i/)
-- [ ] [LeetCode 503. Next Greater Element II](src/LeetCode/Stack/NextGreaterElement2.java)[LeetCode](https://leetcode.com/problems/next-greater-element-ii/description/)
+- [ ] [LeetCode 739. Daily Temperatures](src/LeetCode/Stack/DailyTemperature.java) | [LeetCode](https://leetcode.com/problems/daily-temperatures/)
+- [ ] [LeetCode 496. Next Greater Element I](src/LeetCode/Stack/NextGreaterElement.java) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/)
+- [ ] [LeetCode 503. Next Greater Element II](src/LeetCode/Stack/NextGreaterElement2.java) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/description/)
 #### Monotonic Decreasing Stack
 - [ ] [Stock Span](src/LeetCode/Stack/StockSpan.java)
-- [ ] [LeetCode 901. Online Stock Span](src/LeetCode/Stack/StockSpanner.java)[LeetCode](https://leetcode.com/problems/online-stock-span/)
+- [ ] [LeetCode 901. Online Stock Span](src/LeetCode/Stack/StockSpanner.java) | [LeetCode](https://leetcode.com/problems/online-stock-span/)
 #### Monotonic Increasing Stack
-- [ ] [LeetCode 84 — Largest Rectangle in Histogram](src/LeetCode/Stack/LargestRectangleInHistogram.java)[LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [ ] [LeetCode 84 — Largest Rectangle in Histogram](src/LeetCode/Stack/LargestRectangleInHistogram.java) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 ``` What is PSE?
 PSE = Previous Smaller Element
 It means the nearest element on the left side that is smaller than the current element.
@@ -50,9 +50,9 @@ Its contribution is:
 1 × 4 = 4
 ```
 
-- [ ] [LeetCode 907 — Sum of Subarray Minimums](src/LeetCode/Stack/SumOfSubarrayMinimums.java) [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/)
-- [ ] [LeetCode 42 — Trapping Rain Water](src/LeetCode/Stack/TrappingRainWater.java) [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
-- [ ] [LeetCode 85 — Maximal Rectangle](src/LeetCode/Stack/MaximalRectangle.java) [LeetCode](https://leetcode.com/problems/maximal-rectangle/description/)
+- [ ] [LeetCode 907 — Sum of Subarray Minimums](src/LeetCode/Stack/SumOfSubarrayMinimums.java) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/)
+- [ ] [LeetCode 42 — Trapping Rain Water](src/LeetCode/Stack/TrappingRainWater.java) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
+- [ ] [LeetCode 85 — Maximal Rectangle](src/LeetCode/Stack/MaximalRectangle.java) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/description/)
 
 ```
 Greedy Properties:
@@ -60,13 +60,13 @@ Greedy Properties:
 - Optimal Substructure: Can the larger problem be solved using optimal solutions to smaller subproblems?
 ```
 
-- [ ] [LeetCode 402. Remove K Digits](src/LeetCode/Stack/RemoveKDigits.java) [LeetCode](https://leetcode.com/problems/remove-k-digits/description/)
-- [ ] [LeetCode 456. 132 Pattern](src/LeetCode/Stack/One32Pattern.java) [LeetCode](https://leetcode.com/problems/132-pattern/description/)
+- [ ] [LeetCode 402. Remove K Digits](src/LeetCode/Stack/RemoveKDigits.java) | [LeetCode](https://leetcode.com/problems/remove-k-digits/description/)
+- [ ] [LeetCode 456. 132 Pattern](src/LeetCode/Stack/One32Pattern.java) | [LeetCode](https://leetcode.com/problems/132-pattern/description/)
 
 ### Normal Stack
-- [ ] [LeetCode 150. Evaluate Reverse Polish Notation](src/LeetCode/Stack/EvaluateReversePolishNotation.java) [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
-- [ ] [LeetCode 735. Asteroid Collision](src/LeetCode/Stack/AsteroidCollision.java) [LeetCode](https://leetcode.com/problems/asteroid-collision/description/)
-- [ ] [LeetCode 853. Car Fleet](src/LeetCode/Stack/CarFleet.java) [LeetCode](https://leetcode.com/problems/car-fleet/description/)
+- [ ] [LeetCode 150. Evaluate Reverse Polish Notation](src/LeetCode/Stack/EvaluateReversePolishNotation.java) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+- [ ] [LeetCode 735. Asteroid Collision](src/LeetCode/Stack/AsteroidCollision.java) | [LeetCode](https://leetcode.com/problems/asteroid-collision/description/)
+- [ ] [LeetCode 853. Car Fleet](src/LeetCode/Stack/CarFleet.java) | [LeetCode](https://leetcode.com/problems/car-fleet/description/)
 
 
 ##  🔎 Linked Lists
@@ -78,10 +78,10 @@ Each node contains two things:
 head holds the reference to the first node.
 ```
 
-- [ ] [LeetCode 1290. Convert Binary Number in a Linked List to Integer](src/LeetCode/LinkedList/BinaryToDecimal.java) [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
-- [ ] [LeetCode 707. Design Linked List](src/LeetCode/LinkedList/DesignLinkedList.java) [LeetCode](https://leetcode.com/problems/design-linked-list/description/)
-- [ ] [LeetCode 206. Reverse Linked List](src/LeetCode/LinkedList/ReverseLinkedList.java) [LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)
-- [ ] [LeetCode 21. Merge Two Sorted Lists](src/LeetCode/LinkedList/MergeTwoSortedList.java) [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [ ] [LeetCode 1290. Convert Binary Number in a Linked List to Integer](src/LeetCode/LinkedList/BinaryToDecimal.java) | [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+- [ ] [LeetCode 707. Design Linked List](src/LeetCode/LinkedList/DesignLinkedList.java) | [LeetCode](https://leetcode.com/problems/design-linked-list/description/)
+- [ ] [LeetCode 206. Reverse Linked List](src/LeetCode/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)
+- [ ] [LeetCode 21. Merge Two Sorted Lists](src/LeetCode/LinkedList/MergeTwoSortedList.java) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 
 ## 🔎 Fast & Slow Pointers
