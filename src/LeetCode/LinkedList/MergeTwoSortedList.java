@@ -19,9 +19,6 @@ public class MergeTwoSortedList {
         ListNode dummy = new ListNode(-1);
         ListNode tail = dummy;
 
-        if (list1 == null && list2 == null)
-            return dummy.next;
-
         while (list1 != null && list2 != null) {
             if (list1.val <= list2.val) {
                 tail.next = list1;
@@ -36,11 +33,8 @@ public class MergeTwoSortedList {
 
         if (list1 != null) {
             tail.next = list1;
-            tail = tail.next;
-        }
-        if (list2 != null) {
+        } else if (list2 != null) {
             tail.next = list2;
-            tail = tail.next;
         }
         return dummy.next;
     }
