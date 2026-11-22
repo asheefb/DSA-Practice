@@ -84,6 +84,9 @@ head holds the reference to the first node.
 - [ ] [LeetCode 21. Merge Two Sorted Lists](src/LeetCode/LinkedList/MergeTwoSortedList.java) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 - [ ] [LeetCode 2. Add Two Numbers](src/LeetCode/LinkedList/AddTwoNumbers.java) | [LeetCode](https://leetcode.com/problems/add-two-numbers/description/)
 - [ ] [LeetCode 203. Remove Linked List Elements](src/LeetCode/LinkedList/RemoveLinkedListElements.java) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/description/)
+- [ ] [LeetCode 83. Remove Duplicates from Sorted List](src/LeetCode/LinkedList/RemoveDuplicateFromSortedList.java) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [ ] [LeetCode 82. Remove Duplicates from Sorted List II](src/LeetCode/LinkedList/ReverseDuplicateFromSortedList2.java) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+- [ ] [LeetCode 24. Swap Nodes in Pairs](src/LeetCode/LinkedList/SwapTwoNodesInPair.java) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 - 
 
 ## 🔎 Fast & Slow Pointers
