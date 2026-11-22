@@ -89,7 +89,9 @@ head holds the reference to the first node.
 - [ ] [LeetCode 24. Swap Nodes in Pairs](src/LeetCode/LinkedList/SwapTwoNodesInPair.java) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 - [ ] [LeetCode 92. Reverse Linked List II](src/LeetCode/LinkedList/ReverseLinkedList2.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 - [ ] [LeetCode 86. Partition List](src/LeetCode/LinkedList/PartitionList.java) | [LeetCode](https://leetcode.com/problems/partition-list/description/)
-- 
+- [ ] [LeetCode 61. Rotate List](src/LeetCode/LinkedList/RotateAList.java) | [LeetCode](https://leetcode.com/problems/rotate-list/)
+- [ ] [LeetCode 138. Copy List with Random Pointer](src/LeetCode/LinkedList/CopyListWithRandomPointer.java) | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+-
 
 ## 🔎 Fast & Slow Pointers
 ```
