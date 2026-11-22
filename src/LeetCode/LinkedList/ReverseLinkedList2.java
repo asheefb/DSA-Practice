@@ -11,7 +11,6 @@ public class ReverseLinkedList2 {
         ListNode dummy = new ListNode(-1);
         dummy.next = head;
         ListNode beforeLeft = dummy;
-        boolean isLeftFound = false, isRightFound = false;
 
         ListNode rightNode = null;
 
