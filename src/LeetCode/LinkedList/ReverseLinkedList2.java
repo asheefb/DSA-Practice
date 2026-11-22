@@ -20,8 +20,10 @@ public class ReverseLinkedList2 {
             if (count == left - 1)
                 beforeLeft = temp;
 
-            if (count == right)
+            if (count == right) {
                 rightNode = temp;
+                break;
+            }
 
             count++;
 
