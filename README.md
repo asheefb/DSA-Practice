@@ -93,6 +93,7 @@ head holds the reference to the first node.
 - [ ] [LeetCode 138. Copy List with Random Pointer](src/LeetCode/LinkedList/CopyListWithRandomPointer.java) | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 - [ ] [LeetCode 25. Reverse Nodes in k-Group](src/LeetCode/LinkedList/ReverseNodesInKGroup.java) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 - [ ] [LeetCode 146. LRU Cache](src/LeetCode/LinkedList/LRUCache.java) | [LeetCode](https://leetcode.com/problems/lru-cache/description/)
+- [ ] [LeetCode 148. Sort List](src/LeetCode/LinkedList/SortList.java) | [LeetCode](https://leetcode.com/problems/sort-list/description/)
 
 ## 🔎 Fast & Slow Pointers
 ```
